@@ -1,2 +1,2 @@
 # lobby-bot-network
-a version of https://github.com/Azlxy/lobbybot
+a version of https://github.com/Azlxy/lobbybot in python
